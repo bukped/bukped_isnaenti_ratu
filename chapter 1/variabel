@@ -1,0 +1,3 @@
+<script>
+    var namaFungsi = () => console.log("Hello World!");
+</script>
