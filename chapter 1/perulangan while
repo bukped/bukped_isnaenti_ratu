@@ -1,0 +1,7 @@
+while(ulangi){
+    var jawab = confirm("Apakah anda ingin mengulang lagi?")
+    counter++;
+    if(jawab == false){
+        ulangi = false;
+    }
+}
