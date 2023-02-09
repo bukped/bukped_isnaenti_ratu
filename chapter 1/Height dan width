@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>Beranda</title>
+</head>
+<body>
+	<p>	
+		Gambar dengan ukuran asli<br />
+		<img src="kucing.jpg"/><hr />
+		Gambar dengan ukuran yang sudah dikustom<br />
+		<img src="kucing.jpg" width="200px" height="150px" />
+	</p>
+</body>
+</html>
