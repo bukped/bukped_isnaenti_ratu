@@ -1,0 +1,22 @@
+var languages = ["Javascript", "HTML", "CSS", "Typescript"];
+
+for(i = 0; i < languages.length; i++){
+    document.write(i+". "+ languages[i] + "<br/>");
+}
+ perulangan ini dapat di sederhanakan lagi menggunakan in :
+ 
+ var languages = ["Javascript", "HTML", "CSS", "Typescript"];
+
+for(i in languages){
+    document.write(i+". "+ languages[i] + "<br/>");
+}
+
+*Praktikum Perulangan Method repeat() Pada Javascript*
+document.write("Ulangi kalimat ini! ".repeat(100));
+
+Prakikum Perulangan Nested (bersarang) pada Javascript
+for(let i = 0; i < 10; i++){
+    for(let j = 0; j < 10; j++){
+        document.write("<p>Perulangan ke " + i + "," + j + "</p>");
+    }
+}
