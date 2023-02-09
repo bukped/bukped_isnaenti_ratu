@@ -1,0 +1,7 @@
+var name = "Ratu SukmaKomala";
+var age = 20;
+var single = true;
+
+name : bertipe data string
+age  : bertipe data interger
+single : bertipe data bolean
