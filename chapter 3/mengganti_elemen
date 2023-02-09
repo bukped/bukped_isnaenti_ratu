@@ -1,0 +1,7 @@
+var div = document.querySelector('#div');
+var newDiv = document.createElement(‘div’);
+
+ anda bisa mendesain source code diatas seperti kode di bawah ini:
+ 
+ newDiv.innerHTML = "Hello World2";
+div.parentNode.replaceChild(newDiv, div);
