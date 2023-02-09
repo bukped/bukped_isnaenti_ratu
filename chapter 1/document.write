@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Saya sedang belajar Javascript</title>
+  </head>
+  <body>
+    <script> 
+    console.log("belajar Javascript");
+    document.write("hay")!
+    </script>
+
+  </body>
+</html>
