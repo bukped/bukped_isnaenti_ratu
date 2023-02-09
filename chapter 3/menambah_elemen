@@ -1,0 +1,2 @@
+var div = document.createElement(‘div’);
+pada source code diatas javascript DOM memberi elemen yaitu div
