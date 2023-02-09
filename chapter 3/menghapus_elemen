@@ -1,0 +1,2 @@
+var elem = document.querySelector('#footer);
+elem.parentNode.removeChild(elem);
