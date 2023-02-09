@@ -1,0 +1,8 @@
+<head>
+	<title>COBA 1</title>
+</head>
+<body>
+<h1 id="ce">COBA 1</h1>
+<button type="button" onclick='getElementById("ce").style.fontSize = "140px"'>CLICK ME!</button>
+</body>
+</html>
